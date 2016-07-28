@@ -22,4 +22,3 @@
 				2 to 3 divs.ApStyle grid system is more flexible than bootstrap, foundation
 				grid system.More</button></p>
 		</div>
-	</html>
