@@ -11,10 +11,7 @@ You will not have to write a single piece of css code in your project.So you can
 You can very easily make responsive website using ApStyle framework.The syntax is super easy and you need not to remember a bunch of complicated class names and you can easily and intuitively use the inbuilt classes.Unlike bootstrap, foundation, you need not to write sections for every components, ApStyle JAVASCRIPT framework will do that for you.It'll automatically insert <strong>HTML</strong> codes for the necessary sections.
 <hr />
 
-			<b>Say no to bootstrap,foundation</b>
-			 No weird class names and code structure like bootstrap and also you
-				will not have to open a lot of div like bootstrap.
-				Everything is simple, and you can do any thing by opening only
-				2 to 3 divs.ApStyle grid system is more flexible than bootstrap, foundation
-				grid system.More
+<b>Say no to bootstrap,foundation</b>
+------------------------------------
+No weird class names and code structure like bootstrap and also you will not have to open a lot of div like bootstrap.Everything is simple, and you can do any thing by opening only 2 to 3 divs.ApStyle grid system is more flexible than bootstrap, foundation grid system.More
 		
